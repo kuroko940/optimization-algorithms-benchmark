@@ -31,9 +31,9 @@ Des tests de performance comparatifs ont été réalisés avec le module `timeit
 * **Efficacité :** Le Branch and Bound est performant grâce à un élagage efficace, bien que sa complexité théorique reste exponentielle dans le pire des cas.
 
 ## Utilisation
-Le projet est implémenté sous forme de Jupyter Notebook (`projet.ipynb`).
+Le projet est implémenté sous forme de Jupyter Notebook (`knapsack_algorithms_comparison.ipynb`).
 
 Pour exécuter le projet :
 1. Installer Python et les bibliothèques standards nécessaires.
-2. Lancer le notebook avec Jupyter (`jupyter notebook projet.ipynb`).
+2. Lancer le notebook avec Jupyter (`jupyter notebook knapsack_algorithms_comparison.ipynb`).
 3. Exécuter les cellules pour voir les différentes implémentations et les résultats des benchmarks comparatifs.
